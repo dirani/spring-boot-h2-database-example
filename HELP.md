@@ -1,3 +1,5 @@
+* [JavaTpoint Spring Boot H2 Database](https://www.javatpoint.com/spring-boot-h2-database)
+
 # Read Me First
 The following was discovered as part of building this project:
 
@@ -20,6 +22,3 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 * [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-
-# Credits
-* [Spring Boot H2 Database](https://www.javatpoint.com/spring-boot-h2-database)
